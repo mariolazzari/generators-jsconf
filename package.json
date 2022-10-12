@@ -1,0 +1,23 @@
+{
+  "name": "generators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basics.js",
+  "scripts": {
+    "basic": "nodemon basic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/generators-jsconf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/generators-jsconf/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/generators-jsconf#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
