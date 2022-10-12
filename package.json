@@ -4,7 +4,9 @@
   "description": "",
   "main": "basics.js",
   "scripts": {
-    "basic": "nodemon basic"
+    "basic": "nodemon basic",
+    "iter": "nodemon iterator",
+    "lazy": "nodemon lazy"
   },
   "repository": {
     "type": "git",
